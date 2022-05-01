@@ -88,4 +88,4 @@ Repositório público com arquivos de analise de requisitos.
 <li><strong>Requisito Não Funcional</strong> - contém as restrições e qualidades do sistema também em formato de tabela.</li>
 <li><strong>Protótipos</strong> -  link das imagens ou HTML dos protótipos do sistema (opcional).</li>
 <li><strong>Diagramas</strong> - link ou imagem dos diagramas (opcional).</li>
-<li><strong>Fornecedor do requisitos</strong>nome dos Fornecedores de requisitos</li>
+<li><strong>Fornecedor do requisitos</strong> nome dos Fornecedores de requisitos</li>

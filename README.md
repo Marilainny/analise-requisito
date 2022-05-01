@@ -1,0 +1,37 @@
+<!-- Configuração do git README.md no site: https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax-->
+
+# analise-requisito
+Repositório público com arquivos de analise de requisitos.
+
+<h1>Importância da Análise de Requisitos</h1>
+<p>
+ <strong><li>Garante a entrega de qualidade</li></strong>   
+ <strong><li>Possibilita um planejamento mais próximo do real</li></strong> 
+ <strong><li>Diminuição de retrabalho</li></strong> 
+</p>
+
+<h2>Conceitos de Análise de Requisitos</h2>
+<p>
+<strong>Requisito - </strong> funcionalidade que o sistema deve possuir ou uma restrição que deve sastifazer uma necessidade do cliente. Podendo ser dos seguintes tipos:
+</br>
+<strong>Requisito Funcional</strong>
+<li>Recursos do sistema.</li>
+<li>O que se espera que o sistema faça, independente de como isso será implementado.</li>
+Exemplo: "A aplicação deve gerar relatórios"
+<li>O que o sistema não pode fazer.</li>
+<br>
+<strong>Requisito Não Funcional - </strong>
+<li>Qualidade gerais ou restrições do sistema como facilidade de utilização, facilidade de manutenção, segurança, desempenho, dentre outros.</li>
+ Exemplo: "O sistema deve ser baseado em linux."    
+</p>
+
+<h1>Processo de Engenharia de Requisitos</h1>
+<li><strong>Estudo de viabilidade</strong></li>
+<li><strong>Elicitação de Requisitos</strong></li>
+<li><strong>Análise de requisitos</strong></li>
+<li><strong>Especificação de requisitos</strong></li>
+<li><strong>Validação de requisitos</strong></li>
+<li><strong>Gerenciamento de requisitos</strong></li>
+
+<h2>Elicitação e Análise de Requisitos</h2>
+<img align="center" alt="Rafa-Ts" height="200" width="700" src="https://github.com/Marilainny/analise-requisito/blob/main/imagem/ciclodesenvolvimento.png">

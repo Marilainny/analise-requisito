@@ -30,7 +30,7 @@ Repositório público com arquivos de analise de requisitos.
     Exemplo: "A aplicação deve gerar relatórios"
     <li>O que o sistema não pode fazer.</li>
     <br>
-    <strong>Requisito Não Funcional - </strong>
+    <strong>Requisito Não Funcional </strong>
     <li>Qualidade gerais ou restrições do sistema como facilidade de utilização, facilidade de manutenção, segurança,
         desempenho, dentre outros.</li>
     Exemplo: "O sistema deve ser baseado em linux."
@@ -45,7 +45,7 @@ Repositório público com arquivos de analise de requisitos.
 <li><strong>Gerenciamento de requisitos</strong></li>
 
 <h2>Elicitação e Análise de Requisitos</h2>
-<img align="center" alt="Rafa-Ts" height="200" width="700" src="https://github.com/Marilainny/analise-requisito/blob/main/imagem/elicitacao.png">
+<img align="center" alt="Rafa-Ts" height="300" width="600" src="https://github.com/Marilainny/analise-requisito/blob/main/imagem/elicitacao.png">
 <h2>Dificuldades na Elicitação dos Requisitos</h2>
 <p>
     <li><i>Stakeholders</i> não sabem o que querem do softaware.</li>
@@ -56,7 +56,7 @@ Repositório público com arquivos de analise de requisitos.
     <li>Fatores organizacionais podem influênciar como mudança de legislação.</li>
     <li>Requisitos mudam durante a engenharia de requisitos.</li>    
 </p>
-<img align="center" alt="Rafa-Ts" height="200" width="700" src="https://github.com/Marilainny/analise-requisito/blob/main/imagem/charge.jpeg">
+<img align="center" alt="Rafa-Ts" height="600" width="700" src="https://github.com/Marilainny/analise-requisito/blob/main/imagem/charge.jpeg">
 
 <h1>Descoberta Dos Requisitos</h1>
 <li>Fontes: documentação, <i>Stakeholders</i>, especificações de sistemas similares.</li>
@@ -77,10 +77,12 @@ Repositório público com arquivos de analise de requisitos.
 <h1>Como criar Documento de Requisto</h1>
 <li><strong>Introdução</strong> - Objetivo do documento e o público alvo do escopo</li>
 <li><strong>Justificativa do projeto</strong></li>
-<li>Objetivos</li>
-<li>Escopo do projeto de forma geral</li>
-<li>Cenário atual do sistema, caso seja uma melhoria.</li>
-<li>Escopo não contemplado, caso seja necessário.</li>
+<div style="text-indent: 5px">
+- Objetivos
+- Escopo do projeto de forma geral
+- Cenário atual do sistema, caso seja uma melhoria.
+- Escopo não contemplado, caso seja necessário.
+</div>
 <li><strong>Requisito Funcionais</strong> - principais funcionalidades que o sistema de softaware deve ter em formato de tabela.</li>
 <li><strong>Requisito Não Funcional</strong> - contém as restrições e qualidades do sistema também em formato de tabela.</li>
 <li><strong>Protótipos</strong> -  link das imagens ou HTML dos protótipos do sistema (opcional).</li>

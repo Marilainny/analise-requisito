@@ -34,4 +34,4 @@ Exemplo: "A aplicação deve gerar relatórios"
 <li><strong>Gerenciamento de requisitos</strong></li>
 
 <h2>Elicitação e Análise de Requisitos</h2>
-<img align="center" alt="Rafa-Ts" height="200" width="500" src="https://github.com/Marilainny/analise-requisito/blob/main/imagem/icon-ciclodesenvolvimento.jpg">
+<img align="center" alt="Rafa-Ts" height="200" width="500" src="https://github.com/Marilainny/analise-requisito/blob/main/imagem/ciclodesenvolvimento.png">

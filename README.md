@@ -27,7 +27,7 @@ Repositório público com arquivos de analise de requisitos.
     <strong>Requisito Funcional</strong>
     <li>Recursos do sistema.</li>
     <li>O que se espera que o sistema faça, independente de como isso será implementado.</li>
-    Exemplo: "A aplicação deve gerar relatórios"
+    Exemplo: "A aplicação deve gerar relatórios."
     <li>O que o sistema não pode fazer.</li>
     <br>
     <strong>Requisito Não Funcional </strong>
@@ -74,14 +74,15 @@ Repositório público com arquivos de analise de requisitos.
     <li>Deve permitir que o usuário autentique no sistema informando login e senha.</li>
     <li>Este sistema deve ser online. Deve ser feito na linguagem de programação Java e com banco de dados MySQL.</li>
 </p>
-<h1>Como criar Documento de Requisto</h1>
-<li><strong>Introdução</strong> - Objetivo do documento e o público alvo do escopo</li>
+<h1>Como criar Documento de Requisito</h1>
+<li><strong>Introdução</strong> - Objetivo do documento e o público alvo do escopo.</li>
 <li><strong>Justificativa do projeto</strong></li>
 <div style="text-indent: 5px">
-- Objetivos
-- Escopo do projeto de forma geral
-- Cenário atual do sistema, caso seja uma melhoria.
-- Escopo não contemplado, caso seja necessário.
+<ul>Objetivos</ul>
+<ul>Escopo do projeto de forma geral.</ul>
+<ul>Cenário atual do sistema, caso seja uma melhoria.</ul>
+<ul>Escopo não contemplado, caso seja necessário.</ul>
+</ul>
 </div>
 <li><strong>Requisito Funcionais</strong> - principais funcionalidades que o sistema de softaware deve ter em formato de tabela.</li>
 <li><strong>Requisito Não Funcional</strong> - contém as restrições e qualidades do sistema também em formato de tabela.</li>

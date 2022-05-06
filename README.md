@@ -16,7 +16,7 @@ Repositório público com arquivos de analise de requisitos.
     </strong>
 </p>
 <h1>Ciclo de Vida do Desenvolvimento de Sistema</h1>
-<img align="center" alt="Rafa-Ts" height="200" width="700"
+<img align="center" alt="Rafa-Ts" height="300" width="950"
     src="https://github.com/Marilainny/analise-requisito/blob/main/imagem/ciclodesenvolvimento.png">
 
 <h2>Conceitos de Análise de Requisitos</h2>
@@ -56,7 +56,7 @@ Repositório público com arquivos de analise de requisitos.
     <li>Fatores organizacionais podem influênciar como mudança de legislação.</li>
     <li>Requisitos mudam durante a engenharia de requisitos.</li>    
 </p>
-<img align="center" alt="Rafa-Ts" height="600" width="700" src="https://github.com/Marilainny/analise-requisito/blob/main/imagem/charge.jpeg">
+<img align="center" alt="Rafa-Ts" height="500" width="800" src="https://github.com/Marilainny/analise-requisito/blob/main/imagem/processo.png">
 
 <h1>Descoberta Dos Requisitos</h1>
 <li>Fontes: documentação, <i>Stakeholders</i>, especificações de sistemas similares.</li>
@@ -89,3 +89,75 @@ Repositório público com arquivos de analise de requisitos.
 <li><strong>Protótipos</strong> -  link das imagens ou HTML dos protótipos do sistema (opcional).</li>
 <li><strong>Diagramas</strong> - link ou imagem dos diagramas (opcional).</li>
 <li><strong>Fornecedor do requisitos</strong> - nome dos Fornecedores de requisitos.</li>
+
+<h2>Técnicas de Levantamento de Requisios</h2>
+<p>
+    <li>Verificar a forma atual que o processo está sendo feito.</li>
+    <li>Propor soluções para as problemáticas existentes.</li>
+    <li>Brainstorm gerar o máximo de ideias possíveis.</li>
+    <li>Entrevista direcionada para esclarecer dúvidas.</li>
+    <li>Questionário para extrair informações.</li>
+    <li>Visitar o ambiente com a finalidade de observar os usuários enquanto executam suas tarefas.</li>
+    <li>Estudo de documentos, arquivos, processos de diferentes naturezas utilizados no sistema atual.</li>
+    <li>Reutilização de Requisitos pré-modelado</li>
+    <li>Desenvolimento de Protipagem.</li>
+</p>
+<h2>Por Que Usamos Softwares</h2>
+<p>
+    <li>Automatizar um processo.</li>
+    <li>Melhorar a qualidade das informações.</li>
+    <li>Apoiar decisões estratégicas.</li>
+    <li>Melhorar a qualidade de vida.</li>
+    <li>Dar mais credibilidade às informações.</li>
+</p>
+
+<h2>O Sucesso De Um Projeto</h2>
+<p>
+    <li>Ser concluído dentro do prazo</li>
+    <li>Ser concluído dentro do orçamento</li>
+    <li>Atingir a qualidade de Desenvolvimento</li>
+    <li>Alterar minimamente o escopo</li>
+    <li>Ser aceito sem restrição</li>
+</p>
+
+<h2>Fases do Desenvolvimento do Software</h2>
+<img align="center" alt="Rafa-Ts" height="600" width="900" src="https://github.com/Marilainny/analise-requisito/blob/main/imagem/fases-desenvolvimento.png">
+
+<h2>Processo Espiral de Desenvolvimento</h2>
+<img align="center" alt="Rafa-Ts" height="600" width="900" src="https://github.com/Marilainny/analise-requisito/blob/main/imagem/requisito-processo-espiral.png">
+
+<h2>Compreendendo o Negócio</h2>
+<p>
+    <li>Quais as atividades desenvolvida pela empresa?</li>
+    <li>Ela se organiza em setores? Quais são?</li>
+    <li>Quais os cargos ocupados por cada setor?</li>
+    <li>Quais as atribuições de cada um dos cargos?</li>
+    <li>Quais são as regras que regem as atividades desenvolvidas pela empresa?</li>
+    <li>Como ocorre cada tarefa? Qual o seu fluxo?</li>
+    <li>Quais dados são manipulados em cada tarefa?</li>
+    <li>Como os dados são registrados pela empresa?</li>
+    <li>Como se dar o acesso aos dados da empresa?</li>
+    <li>São produzidos Relatórios? Quais?</li>
+    <li>O que é apresentado? Com qual periodicidade?</li>
+    <li>Quais são os formulários utilizados pela empresa?</li>    
+</p>
+<h2>Exemplo de Coleta de Dados</h2>
+<img align="center" alt="Rafa-Ts" height="400" width="900" src="https://github.com/Marilainny/analise-requisito/blob/main/imagem/exemplo-coleta-de-dados.png">
+<h2>Um requisito identifica</h2>
+<p>
+    O sistema deve ter um valor ao usuário:
+    <li>Um atributo</li>
+    <li>Uma capacidade</li>
+    <li>Uma característica</li>
+    <li>Uma qualidade</li>
+</p>
+<img align="center" alt="Rafa-Ts" height="500" width="600" src="https://github.com/Marilainny/analise-requisito/blob/main/imagem/requisitos.png">
+<h2>Um requisito pode ser</h2>
+<p>
+    <li>Uma descrição de funcionalidade</li>
+    <li>Uma especificação detalhada do comportamento esperado de um sistema</li>
+    <li>Uma propriedade genérica de um sistema</li>
+    <li>Uma restrição técnica do sistema</li>
+    <li>Uma restrição do processo de desenvolvimento</li>
+    <li>Informações sobre uma regra de negócio</li>
+</p>

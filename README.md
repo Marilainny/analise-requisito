@@ -56,7 +56,7 @@ Repositório público com arquivos de analise de requisitos.
     <li>Fatores organizacionais podem influênciar como mudança de legislação.</li>
     <li>Requisitos mudam durante a engenharia de requisitos.</li>    
 </p>
-<img align="center" alt="Rafa-Ts" height="600" width="700" src="https://github.com/Marilainny/analise-requisito/blob/main/imagem/charge.jpeg">
+<img align="center" alt="Rafa-Ts" height="500" width="800" src="https://github.com/Marilainny/analise-requisito/blob/main/imagem/processo.png">
 
 <h1>Descoberta Dos Requisitos</h1>
 <li>Fontes: documentação, <i>Stakeholders</i>, especificações de sistemas similares.</li>
@@ -102,7 +102,7 @@ Repositório público com arquivos de analise de requisitos.
     <li>Reutilização de Requisitos pré-modelado</li>
     <li>Desenvolimento de Protipagem.</li>
 </p>
-<h2>Por que usamos softwares</h2>
+<h2>Por Que Usamos Softwares</h2>
 <p>
     <li>Automatizar um processo.</li>
     <li>Melhorar a qualidade das informações.</li>
@@ -120,7 +120,7 @@ Repositório público com arquivos de analise de requisitos.
     <li>Ser aceito sem restrição</li>
 </p>
 
-<h2>Fases do Desenvolimento de Software</h2>
+<h2>Fases do Desenvolvimento do Software</h2>
 <img align="center" alt="Rafa-Ts" height="600" width="900" src="https://github.com/Marilainny/analise-requisito/blob/main/imagem/fases-desenvolvimento.png">
 
 <h2>Processo Espiral de Desenvolvimento</h2>

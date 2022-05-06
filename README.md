@@ -56,7 +56,7 @@ Repositório público com arquivos de analise de requisitos.
     <li>Fatores organizacionais podem influênciar como mudança de legislação.</li>
     <li>Requisitos mudam durante a engenharia de requisitos.</li>    
 </p>
-<img align="center" alt="Rafa-Ts" height="500" width="800" src="https://github.com/Marilainny/analise-requisito/blob/main/imagem/processo.png">
+<img align="center" alt="Rafa-Ts" height="300" width="600" src="https://github.com/Marilainny/analise-requisito/blob/main/imagem/processo.png">
 
 <h1>Descoberta Dos Requisitos</h1>
 <li>Fontes: documentação, <i>Stakeholders</i>, especificações de sistemas similares.</li>

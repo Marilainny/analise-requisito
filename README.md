@@ -16,7 +16,7 @@ Repositório público com arquivos de analise de requisitos.
     </strong>
 </p>
 <h1>Ciclo de Vida do Desenvolvimento de Sistema</h1>
-<img align="center" alt="Rafa-Ts" height="300" width="950"
+<img align="center" alt="Ciclo-desenvolvimento" height="300" width="950"
     src="https://github.com/Marilainny/analise-requisito/blob/main/imagem/ciclodesenvolvimento.png">
 
 <h2>Conceitos de Análise de Requisitos</h2>
@@ -45,7 +45,7 @@ Repositório público com arquivos de analise de requisitos.
 <li><strong>Gerenciamento de requisitos</strong></li>
 
 <h2>Elicitação e Análise de Requisitos</h2>
-<img align="center" alt="Rafa-Ts" height="300" width="600" src="https://github.com/Marilainny/analise-requisito/blob/main/imagem/elicitacao.png">
+<img align="center" alt="Elicitação" height="300" width="600" src="https://github.com/Marilainny/analise-requisito/blob/main/imagem/elicitacao.png">
 <h2>Dificuldades na Elicitação dos Requisitos</h2>
 <p>
     <li><i>Stakeholders</i> não sabem o que querem do softaware.</li>
@@ -56,7 +56,7 @@ Repositório público com arquivos de analise de requisitos.
     <li>Fatores organizacionais podem influênciar como mudança de legislação.</li>
     <li>Requisitos mudam durante a engenharia de requisitos.</li>    
 </p>
-<img align="center" alt="Rafa-Ts" height="300" width="600" src="https://github.com/Marilainny/analise-requisito/blob/main/imagem/processo.png">
+<img align="center" alt="Processo" height="300" width="600" src="https://github.com/Marilainny/analise-requisito/blob/main/imagem/processo.png">
 
 <h1>Descoberta Dos Requisitos</h1>
 <li>Fontes: documentação, <i>Stakeholders</i>, especificações de sistemas similares.</li>
@@ -121,10 +121,10 @@ Repositório público com arquivos de analise de requisitos.
 </p>
 
 <h2>Fases do Desenvolvimento do Software</h2>
-<img align="center" alt="Rafa-Ts" height="600" width="900" src="https://github.com/Marilainny/analise-requisito/blob/main/imagem/fases-desenvolvimento.png">
+<img align="center" alt="Fases-Desenvolvimento" height="800" width="900" src="https://github.com/Marilainny/analise-requisito/blob/main/imagem/fases-desenvolvimento.png">
 
 <h2>Processo Espiral de Desenvolvimento</h2>
-<img align="center" alt="Rafa-Ts" height="600" width="900" src="https://github.com/Marilainny/analise-requisito/blob/main/imagem/requisito-processo-espiral.png">
+<img align="center" alt="Processo-Espiral" height="700" width="1000" src="https://github.com/Marilainny/analise-requisito/blob/main/imagem/requisito-processo-espiral.png">
 
 <h2>Compreendendo o Negócio</h2>
 <p>
@@ -142,7 +142,7 @@ Repositório público com arquivos de analise de requisitos.
     <li>Quais são os formulários utilizados pela empresa?</li>    
 </p>
 <h2>Exemplo de Coleta de Dados</h2>
-<img align="center" alt="Rafa-Ts" height="400" width="900" src="https://github.com/Marilainny/analise-requisito/blob/main/imagem/exemplo-coleta-de-dados.png">
+<img align="center" alt="Coleta-de-Dados" height="400" width="900" src="https://github.com/Marilainny/analise-requisito/blob/main/imagem/exemplo-coleta-de-dados.png">
 <h2>Um requisito identifica</h2>
 <p>
     O sistema deve ter um valor ao usuário:
@@ -151,7 +151,7 @@ Repositório público com arquivos de analise de requisitos.
     <li>Uma característica</li>
     <li>Uma qualidade</li>
 </p>
-<img align="center" alt="Rafa-Ts" height="500" width="600" src="https://github.com/Marilainny/analise-requisito/blob/main/imagem/requisitos.png">
+<img align="center" alt="Requisitos" height="500" width="600" src="https://github.com/Marilainny/analise-requisito/blob/main/imagem/requisitos.png">
 <h2>Um requisito pode ser</h2>
 <p>
     <li>Uma descrição de funcionalidade</li>
@@ -161,3 +161,83 @@ Repositório público com arquivos de analise de requisitos.
     <li>Uma restrição do processo de desenvolvimento</li>
     <li>Informações sobre uma regra de negócio</li>
 </p>
+<h2>O manifesto ágil e os princípios ágeis</h2>
+<ul type="square">
+    <li>Indivíduos e interação - vem antes de processos e ferramentas</li>
+    <li>Software funcionando - vem antes de documentação abrangente</li>
+    <li>Colaboração do cliente - vem antes de negociação de contrato</li>
+    <li>Resposta à modificação - vem antes de um plano em andamento</li>
+</ul>
+<h1>Os princípios Ágeis</h1>
+<ol type="1">
+    <li>A prioridade é satisfazer o cliente por meio de entrega pronta e contínua de valor.</li>
+    <li>Acolher modificações de requisitos, mesmo no final do desenvolvimento.</li>
+    <li>Entregar software funcionando com frequência, tempo curto</li>
+    <li>Interação diárias entre as equipes pessoal do negócio e os desenvolvedores.</li>
+    <li>Equipe motivada, dar o ambiente e apoio que necessitam e auto-organização.</li>
+    <li>Reunões com as equipes para evoluir a comunicação.</li>
+    <li>Software funcionando é a principal medida de progresso.</li>
+    <li>Processos ágeis e sustentáveis.</li>
+    <li>Os stakeholders devem manter um constante.</li>
+    <li>Atenção contínua para a excelência técnica e para um bom projeto aumenta a agilidade.</li>
+    <li>Simplicidade, maximizar a quantidade de trabalho não realizada.</li>
+    <li>As melhores arquiteturas, requisitos e projetos surgem de equipes auto-organizadas.</li>
+    <li>Em intervalos regulares, a equipe reflete sobre como se tornar mais efetiva, depois sintoniza e ajusta o seu comportamento de acordo com as estratégias.</li>
+</ol>
+<h2>Fases do desenvolvimento</h2>
+<img align="center" alt="Fases-RUP" height="700" width="1000" src="https://github.com/Marilainny/analise-requisito/blob/main/imagem/fases-RUP.jpg">
+
+<h2>Disciplias do PU - Projeto UML</h2>
+<ul type="Circle">
+    <li>Modelagem de negócio - Modelo de Domínio</li>
+    <li>Requisitos - Casos de uso e especificações</li>
+    <li>Projeto - Modelo de projeto</li>
+</ul>
+<h2>Artefatos PU - Projeto UML</h2>
+<img align="center" alt="Artefatos-PU" height="400" width="900" src="https://github.com/Marilainny/analise-requisito/blob/main/imagem/artefatos-PU.png">
+<h2>Atividades Fundamental no Software</h2>
+<ul type="square">
+    <li>Especificação de Software - As funcionalidades do software.</li>
+    <li>Projeto e implementação de Software - As especificações para produzir o software.</li>
+    <li>Validação do Software - verificar se o software faz o que os clientes querem.</li>
+    <li>Evolução do Software - mudanças necessárias.</li>
+</ul>
+<h2>Atividades inclusas</h2>
+<ul type="square">
+    <li>Produtos - desenho de arquitetura.</li>
+    <li>Regras - que reflete a responsabilidade das pessoas envolvidas.</li>
+    <li>Pré e pós condição - estado antes e depois do processo de atividades.</li>
+</ul>
+
+<h2>Modelo de Processo de Software</h2>
+<h3>Waterfall - separados processos de especificação, desenvolvimento, validação e evolução para depois entregar a versão final.</h3>
+<img align="center" alt="Waterfall-Model" height="400" width="900" src="https://github.com/Marilainny/analise-requisito/blob/main/imagem/waterfall-model.png">
+<ul type="square">
+    <li>Análise e definição de requisitos do sistema.</li>
+    <li>Design do Software a arquitetura do sistema.</li>
+    <li>Implementação e testes verificando as especificações.</li>
+    <li>Integração e sistema de teste para validação da entrega.</li>
+    <li>Manutenção e aprimoramento do sistema.</li>
+</ul>
+<h3>Incremental development - Uma série de de versões são incrementada</h3>
+<img align="center" alt="Incremental-Model" height="600" width="900" src="https://github.com/Marilainny/analise-requisito/blob/main/imagem/incremental-model.png">
+<h3>Reuse-oriented software engineering</h3>
+<img align="center" alt="Reuse-Oriented-Model" height="200" width="1000" src="https://github.com/Marilainny/analise-requisito/blob/main/imagem/reuse-oriented-model.png">
+
+<p>Existem três tipos de componentes de software que podem ser usados em um processo:</p>
+<ol type="1">
+    <li>Web Service.</li>
+    <li>Coleção de objetos desenvolvidos como um pacote a ser integrado.</li>
+    <li>Sistemas de software autônomos que são configurados para uso em um determinado meio Ambiente.</li>
+</ol>
+<p>Existem quatro principais atividades requeridas no processo de desenvolvimento.</p>
+<ol type="1">
+    <li><strong>Estudo de viabilidade </strong>- É feita uma estimativa se as necessidades identificadas do usuário podem ser satisfeito usando as tecnologias atuais de software e hardware. O estudo considera se o sistema proposto será rentável do ponto de vista do negócio e se pode ser desenvolvido dentro das restrições orçamentárias existentes. Uma viabilidade estudo deve ser relativamente barato e rápido. O resultado deve informar a decisão de prosseguir ou não com uma análise mais detalhada.</li>
+    <li><strong>Elicitação e análise de requisitos</strong> - Este é o processo de derivação do sistema requisitos através da observação de sistemas existentes, discussões com potenciais usuários e compradores, análise de tarefas e assim por diante. Isso pode envolver o desenvolvimento de um ou mais modelos e protótipos de sistemas. Estes ajudam você a entender o sistema a ser especificado.</li>
+    <li><strong>Especificação de requisitos</strong> - A especificação de requisitos é a atividade de traduzir as informações coletadas durante a atividade de análise em um documento que define um conjunto de requisitos. Dois tipos de requisitos podem ser incluídos neste documento. Os requisitos do usuário são declarações abstratas dos requisitos do sistema para o cliente e o usuário final do sistema; os requisitos do sistema são descrição mais detalhada da funcionalidade a ser fornecida.</li>
+    <li><strong>Validação de requisitos</strong> - Esta atividade verifica os requisitos quanto ao realismo, consistência e integridade. Durante este processo, erros no documento de requisitos são inevitavelmente descobertos. Ele deve então ser modificado para corrigir esses problemas.</li>
+</ol>
+<h3>Exempo de Processo Design</h3>
+<img align="center" alt="Design-Model" height="600" width="900" src="https://github.com/Marilainny/analise-requisito/blob/main/imagem/modelo-design.png">
+
+
